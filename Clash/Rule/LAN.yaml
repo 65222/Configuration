@@ -26,4 +26,3 @@ payload:
   - IP-CIDR6,fc00::/7
   - IP-CIDR6,fe80::/10
   - IP-CIDR6,ff00::/8
-
