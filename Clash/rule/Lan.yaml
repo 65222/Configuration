@@ -1,11 +1,4 @@
 payload:
- - SRC-IP-CIDR,192.168.20.2/32,no-resolve
- - SRC-IP-CIDR,192.168.20.14/31,no-resolve
- - SRC-IP-CIDR,192.168.20.16/28,no-resolve
- - SRC-IP-CIDR,192.168.20.32/27,no-resolve
- - SRC-IP-CIDR,192.168.20.64/27,no-resolve
- - SRC-IP-CIDR,192.168.20.96/30,no-resolve
- - SRC-IP-CIDR,192.168.20.100/32,no-resolve
  - DOMAIN,clash.razord.top
  - DOMAIN,yacd.haishan.me 
  - DOMAIN,asusrouter.com
