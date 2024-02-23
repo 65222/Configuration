@@ -1,5 +1,6 @@
 
 payload:
+  - DOMAIN,loon-plugin.vercel.app
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,asusrouter.com
