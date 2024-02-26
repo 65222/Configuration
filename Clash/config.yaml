@@ -175,10 +175,10 @@ sniffer:
     QUIC:
       ports: [443, 8443]
 proxy-providers:
-  123:
+  NFCLOUD:
     type: http
-    path: "./proxy_provider/123.yaml"
-    url: #填写自己的订阅地址
+    path: "./proxy_provider/NFCLOUD.yaml"
+    url: #填写订阅地址
     interval: 86400
     health-check:
       enable: true
