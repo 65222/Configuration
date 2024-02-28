@@ -1,25 +1,25 @@
-th.bing.com
-www.bingapis.com
-sapphire.api.microsoftapp.net
-prod.rewardsplatform.microsoft.com
-c.clarity.ms
-c.bing.com
-sydney.bing.com
-www.clarity.ms
-p.clarity.ms
-dealczars.bing-shopping.microsoft-falcon.io
-shopping.bing-shopping.microsoft-falcon.io
-cdn.jsdelivr.net
-logincdn.msauth.net
-account.live.com
-acctcdn.msauth.net
-odc.officeapps.live.com
-substrate.office.com
-ssl.bing.com
-services.bingapis.com
-location.microsoft.com
+# Author: 可莉🅥
+# Date: 2024-01-05 22:40:35
 api.msn.com
+assets.msn.com
+copilot.microsoft.com
+dealczars.bing-shopping.microsoft-falcon.io
+# eas.outlook.com
+edgeservices.bing.com
+functional.events.data.microsoft.com
 gateway.bingviz.microsoftapp.net
-in.appcenter.ms
-www.bing.com
+location.microsoft.com
+login.microsoftonline.com
+proteus-assetstore.azurewebsites.net
 self.events.data.microsoft.com
+services.bingapis.com
+shopping.bing-shopping.microsoft-falcon.io
+sapphire.api.microsoftapp.net
+sr.bing.com
+sydney.bing.com
+ssl.bing.com
+th.bing.com
+www.bing.com
+www2.bing.com
+www.bingapis.com
+edge.microsoft.com
