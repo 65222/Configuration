@@ -1,7 +1,6 @@
 payload:
   #个人局域网直连的设备
   - SRC-IP-CIDR,192.168.20.2/32
-  - SRC-IP-CIDR,192.168.20.14/31
   - SRC-IP-CIDR,192.168.20.16/28
   - SRC-IP-CIDR,192.168.20.32/27
   - SRC-IP-CIDR,192.168.20.64/27
@@ -9,6 +8,10 @@ payload:
   - SRC-IP-CIDR,192.168.20.100/32
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
+  #黑猫影视
+  - DOMAIN,uuuoo.cc
+  - DOMAIN,emby.date
+  - DOMAIN-SUFFIX,emby.bid
   # 本地/局域网地址
   - DOMAIN-SUFFIX,ip6-localhost
   - DOMAIN-SUFFIX,ip6-loopback
