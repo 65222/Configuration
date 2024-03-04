@@ -10,7 +10,7 @@ payload:
   - DOMAIN,yacd.haishan.me
   #黑猫影视
   - DOMAIN,uuuoo.cc
-  - DOMAIN,emby.date
+  - DOMAIN-SUFFIX,emby.date
   - DOMAIN-SUFFIX,emby.bid
   # 本地/局域网地址
   - DOMAIN-SUFFIX,ip6-localhost
