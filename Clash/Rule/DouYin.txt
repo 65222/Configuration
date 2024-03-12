@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zijiecdn.com
 DOMAIN-SUFFIX,zijiecdn.net
+#DOMAIN-SUFFIX,alicdn.com
 IP-CIDR,101.36.166.16/32,no-resolve
 IP-CIDR,101.36.166.17/32,no-resolve
 IP-CIDR,101.36.166.18/32,no-resolve
@@ -117,3 +118,13 @@ IP-CIDR,122.14.236.75/32,no-resolve
 IP-CIDR,123.58.9.84/32,no-resolve
 IP-CIDR,123.58.9.90/32,no-resolve
 IP-CIDR,220.243.141.131/32,no-resolve
+IP-CIDR,220.243.141.205/32,no-resolve
+IP-CIDR,220.243.141.206/32,no-resolve
+IP-CIDR,220.243.141.215/32,no-resolve
+IP-CIDR,220.243.141.216/32,no-resolve
+IP-CIDR,220.243.141.217/32,no-resolve
+IP-CIDR,220.243.190.68/32,no-resolve
+IP-CIDR,220.243.190.72/32,no-resolve
+IP-CIDR,220.243.190.73/32,no-resolve
+IP-CIDR,220.243.190.74/32,no-resolve
+IP-CIDR,220.243.190.79/32,no-resolve
