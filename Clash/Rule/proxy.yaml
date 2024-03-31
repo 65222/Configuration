@@ -8,4 +8,4 @@ payload:
  - DOMAIN-KEYWORD,missav
  - DOMAIN-KEYWORD,pixabay
  - DOMAIN-KEYWORD,gitbook
- - DOMAIN-SUFFIX,image.tmdb.org
+ #- DOMAIN-SUFFIX,image.tmdb.org
