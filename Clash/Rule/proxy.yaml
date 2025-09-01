@@ -5,8 +5,8 @@ payload:
  - DOMAIN,support.firecore.com
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN-SUFFIX,services.googleapis.cn
+ - DOMAIN-KEYWORD,nfcloud
  - DOMAIN-KEYWORD,missav
  - DOMAIN-KEYWORD,pixabay
  - DOMAIN-KEYWORD,gitbook
  - DOMAIN-SUFFIX,image.tmdb.org
- - DOMAIN-KEYWORD,nfcloud
