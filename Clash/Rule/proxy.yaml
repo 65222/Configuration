@@ -12,3 +12,4 @@ payload:
  - DOMAIN-SUFFIX,image.tmdb.org
  - DOMAIN-SUFFIX,qichiyu.com
  - DOMAIN-SUFFIX,api.ipify.org
+ - DOMAIN-SUFFIX, wiki.metacubex.one
