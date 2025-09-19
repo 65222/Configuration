@@ -2,7 +2,7 @@ payload:
  - DOMAIN,sub-store.vercel.app
  - DOMAIN,loon-plugin.vercel.app
  - DOMAIN-SUFFIX,bulianglin.com
- - DOMAIN-SUFFIX,metacubex.one
+ - DOMAIN-SUFFIX,wiki.metacubex.one
  - DOMAIN,support.firecore.com
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN-SUFFIX,services.googleapis.cn
